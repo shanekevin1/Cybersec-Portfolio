@@ -1,3 +1,5 @@
+# Secure & Scalable AWS Cloud Architecture (Project)
+
 This project is based on a fictitious scenario; redesigns the infrastructure for 'WinLocal Giveaways', a small startup specializing in online competitions and promotional giveaways. They follow a major ransomware incident caused by a flat network architecture and limitations (e.g. outdated load balancers, frequent storage outages)
 
 This cloud architecture relates directly to AWS as part of this project I did
