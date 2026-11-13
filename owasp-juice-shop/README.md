@@ -1,3 +1,5 @@
+# OWASP Juice Shop Vulnerability Assessment & Exploitation (Project)
+
 Worked in a collaborative student group to investigate, identify, and exploit real-world web application vulnerabilities using OWASP Juice Shop
 
 The objective was not just to solve the challenges, but to analyze, document, and explain the security weaknesses in each vulnerability
